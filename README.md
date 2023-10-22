@@ -1,8 +1,8 @@
 # 🚀 우아한테크코스 아카이브
 
-5기 프론트엔드 `쿠마(박영진)`의 우아한테크코스 기록입니다.
+`2023.02 ~ 2023.11`
 
-`2023.02 ~ 2023.11` 기간의 활동을 대략적으로 정리한 레포입니다.
+5기 프론트엔드 `쿠마(박영진)`의 우아한테크코스 기록입니다.
 
 # 레벨1 - JavaScript, Typescript, 테스트
 
@@ -155,6 +155,10 @@
 | PROJECT | REPOSITORY | WEBSITE |
 | --- | --- | --- |
 | 동글 | https://github.com/woowacourse-teams/2023-dong-gle | https://donggle.blog/ |
+
+|    PROJECT     |                         REPOSITORY                          |
+| :------------: | :---------------------------------------------------------: |
+| 웹 접근성 개선 | [a11y-airline](https://github.com/yogjin/a11y-airline/tree/yogjin) |
 
 # 레벨4 - **웹 프로그래밍 심화, 팀 프로젝트 유지보수**
 
