@@ -1,6 +1,8 @@
-# 🚀 우아한테크코스 5기 프론트엔드 쿠마(박영진) 아카이브
+# 🚀 우아한테크코스 아카이브
 
-2023.02 ~ 2023.11
+5기 프론트엔드 `쿠마(박영진)`의 우아한테크코스 기록입니다.
+
+`2023.02 ~ 2023.11` 기간의 활동을 대략적으로 정리한 레포입니다.
 
 # 레벨1 - JavaScript, Typescript, 테스트
 
@@ -61,13 +63,13 @@
 
 | NO. | PROJECT | REPOSITORY | PR | PAIR |
 | --- | --- | --- | --- | --- |
-| 1 | 자동차 경주 게임 | [javascript-racingcar-step1](https://github.com/yogjin/javascript-racingcar/tree/yogjin) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/180) | [세인](https://github.com/semnil5202) |
+| 1 | 자동차 경주 게임 | [javascript-racingcar-step1](https://github.com/yogjin/javascript-racingcar/tree/yogjin) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/180) | [세인(이세민)](https://github.com/semnil5202) |
 |  |  | [javascript-racingcar-step2](https://github.com/yogjin/javascript-racingcar/tree/step2) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/240) |  |
-| 2 | 행운의 로또 | [javascript-lotto-step1](https://github.com/yogjin/javascript-lotto/tree/step1) | [PR](https://github.com/woowacourse/javascript-lotto/pull/200) | [야미](https://github.com/feb-dain) |
+| 2 | 행운의 로또 | [javascript-lotto-step1](https://github.com/yogjin/javascript-lotto/tree/step1) | [PR](https://github.com/woowacourse/javascript-lotto/pull/200) | [야미(이다인)](https://github.com/feb-dain) |
 | |  | [javascript-lotto-step2](https://github.com/yogjin/javascript-lotto/tree/step2) | [PR](https://github.com/woowacourse/javascript-lotto/pull/251) |  |
-| 3 | 점심 뭐 먹지 | [javascript-lunch-step1](https://github.com/yogjin/javascript-lunch/tree/step1) | [PR](https://github.com/woowacourse/javascript-lunch/pull/44) | [타미](https://github.com/xodms0309) |
+| 3 | 점심 뭐 먹지 | [javascript-lunch-step1](https://github.com/yogjin/javascript-lunch/tree/step1) | [PR](https://github.com/woowacourse/javascript-lunch/pull/44) | [타미(김태은)](https://github.com/xodms0309) |
 | |  | [javascript-lunch-step2](https://github.com/yogjin/javascript-lunch/tree/step2) | [PR](https://github.com/woowacourse/javascript-lunch/pull/100) |  |
-| 4 | 영화 리뷰 | [javascript-movie-review-step1](https://github.com/yogjin/javascript-movie-review/tree/step1) | [PR](https://github.com/woowacourse/javascript-movie-review/pull/19) | [코난](https://github.com/cruelladevil) |
+| 4 | 영화 리뷰 | [javascript-movie-review-step1](https://github.com/yogjin/javascript-movie-review/tree/step1) | [PR](https://github.com/woowacourse/javascript-movie-review/pull/19) | [코난(윤정민)](https://github.com/cruelladevil) |
 | |  | [javascript-movie-review-step2](https://github.com/yogjin/javascript-movie-review/tree/step2) | [PR](https://github.com/woowacourse/javascript-movie-review/pull/86) |  |
 
 
@@ -137,24 +139,24 @@
 
 | NO. | PROJECT | REPOSITORY | PR | PAIR |
 | --- | --- | --- | --- | --- |
-| 1 | 다시, 점심 뭐 먹지 | [react-lunch-step1](https://github.com/yogjin/react-lunch/tree/step1) | [PR](https://github.com/woowacourse/react-lunch/pull/45) | [제로](https://github.com/inyeong-kang) |
+| 1 | 다시, 점심 뭐 먹지 | [react-lunch-step1](https://github.com/yogjin/react-lunch/tree/step1) | [PR](https://github.com/woowacourse/react-lunch/pull/45) | [제로(강인영)](https://github.com/inyeong-kang) |
 |  |  | [react-lunch-step2](https://github.com/yogjin/react-lunch/tree/step2) | [PR](https://github.com/woowacourse/react-lunch/pull/68) |  |
-| 2 | 페이먼츠 | [react-payments-step1](https://github.com/yogjin/react-payments/tree/step1) | [PR](https://github.com/woowacourse/react-payments/pull/234) | [레고](https://github.com/regularPark) |
+| 2 | 페이먼츠 | [react-payments-step1](https://github.com/yogjin/react-payments/tree/step1) | [PR](https://github.com/woowacourse/react-payments/pull/234) | [레고(박정규)](https://github.com/regularPark) |
 |  |  | [react-payments-step2](https://github.com/yogjin/react-payments/tree/step2) | [PR](https://github.com/woowacourse/react-payments/pull/278) |  |
 | |  | [react-payments-step3](https://github.com/yogjin/react-payments/tree/step3) | [PR](https://github.com/woowacourse/react-payments/pull/328) |  |
-| 3 | 장바구니 | [react-shopping-cart-step1](https://github.com/yogjin/react-shopping-cart/tree/step1) | [PR](https://github.com/woowacourse/react-shopping-cart/pull/189) | [도밥](https://github.com/Creative-Lee) |
+| 3 | 장바구니 | [react-shopping-cart-step1](https://github.com/yogjin/react-shopping-cart/tree/step1) | [PR](https://github.com/woowacourse/react-shopping-cart/pull/189) | [도밥(이도현)](https://github.com/Creative-Lee) |
 |  |  | [react-shopping-cart-step2](https://github.com/yogjin/react-shopping-cart/tree/step2) | [PR](https://github.com/woowacourse/react-shopping-cart/pull/212) |  |
-| 4 | 쇼핑 주문 (협업) | [react-shopping-cart-prod-step1](https://github.com/yogjin/react-shopping-cart-prod/tree/step1) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/111) | [애슐리](https://github.com/ashleysyheo) |
+| 4 | 쇼핑 주문 (협업) | [react-shopping-cart-prod-step1](https://github.com/yogjin/react-shopping-cart-prod/tree/step1) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/111) | [애슐리(허서영)](https://github.com/ashleysyheo) |
 |  |  | [react-shopping-cart-prod-step2](https://github.com/yogjin/react-shopping-cart-prod/tree/step2) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/171) |  |
 
 
-## 레벨3 - **팀 프로젝트**
+# 레벨3 - **팀 프로젝트**
 
 | PROJECT | REPOSITORY | WEBSITE |
 | --- | --- | --- |
 | 동글 | https://github.com/woowacourse-teams/2023-dong-gle | https://donggle.blog/ |
 
-## 레벨4 - **웹 프로그래밍 심화, 팀 프로젝트 유지보수**
+# 레벨4 - **웹 프로그래밍 심화, 팀 프로젝트 유지보수**
 
 <details>
   <summary>레벨4 목표</summary>
@@ -182,3 +184,11 @@
 | | 고급 레이아웃 컴포넌트 | [layout-component-step2](https://github.com/yogjin/layout-component/tree/step2) | [PR](https://github.com/woowacourse/layout-component/pull/87) |
 | 3 | 팀 서비스 클론 코딩 | [frontend-rendering-step1](https://github.com/yogjin/frontend-rendering/tree/step1) | [PR](https://github.com/woowacourse/frontend-rendering/pull/41) |
 | | 렌더링 방식의 분석 | [frontend-rendering-step2](https://github.com/yogjin/frontend-rendering/tree/step2) | [PR](https://github.com/woowacourse/frontend-rendering/pull/89) |
+
+# 글쓰기 미션
+
+| NO. | PROJECT |
+| --- | --- |
+| 1 | [우아한테크코스 한 달 생활기](https://github.com/yogjin/woowa-writing-5/blob/yogjin/level1.md) |
+| 2 | [나의 몰입 경험들](https://github.com/yogjin/woowa-writing-5/blob/yogjin/level2.md) |
+| 3 | [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/yogjin/woowa-writing-5/blob/yogjin/level4.md) |
